@@ -1,6 +1,6 @@
 # Auto Onluyen
 
-Tampermonkey userscript, version 1.18.0.
+Tampermonkey userscript, version 1.18.1.
 
 Install / update: use the Tampermonkey install page for this repo's main branch file `auto-onluyen.user.js`, or check for updates inside Tampermonkey.
 
